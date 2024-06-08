@@ -25,9 +25,7 @@ O resultado foi simples e sucinto, mas como mencionado, o objetivo sempre foi mo
 
 A capacidade das IAs regenerativas é demonstrada através da criação de vídeo, voz e roteiro de forma simples e objetiva sem muito esforço.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Awe-N0ee_bc?si=gmbSkrY6zISmt2Yq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-O conteúdo se encontra no [Link do youtube](https://youtu.be/Awe-N0ee_bc).
+Em razão do vídeo ser maior que o limite do repositório, o conteúdo se encontra no [Link do youtube](https://youtu.be/Awe-N0ee_bc).
 
 ## 💭 Reflexão (Opcional)
 O desafio <strong>*"Natural ou Fake Natty?"*</strong> foi importante no meu desenvolvimento pessoal e profissional, em razão de que me apresentou formas de aumentar minha produtividade utilizando-se de tecnologias que são fáceis e simples de manusear. 
