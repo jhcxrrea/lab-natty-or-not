@@ -1,51 +1,40 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# IaVerse: A Sinergia da Criatividade
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+<p>IaVerse é a fusão entre as tecnologias mais utilizadas atualmente, onde ChatGPT-3.5 e PictoryAI se unem para criar um novo conceito de produção de conteúdo. Esse projeto permite a geração de roteiros, vídeos e áudios de forma automatizada e gratuita.</p>
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+<p><strong>Para o desenvolvimento do projeto, foram utilizadas as seguintes IAs:</strong></p>
+<ul>
+    <li><strong>ChatGPT OpenAI:</strong>
+        <p style="margin-left: 20px;">Iniciei o projeto solicitando ao ChatGPT a criação de um roteiro para uma breve apresentação dos modelos de IAs utilizados para criação desse projeto.</p>
+    </li>
+        <li><strong>Pictory AI:</strong>
+        <p style="margin-left: 20px;">PictoryAI é uma ferramenta de criação de vídeos e áudio, onde é possível realizar vídeos ligados ao tema do script, como também é possível a criação de voz. Foi utilizado o roteiro para a narração de áudio e o vídeo ficou por conta da própria IA.</p>
+    </li>
+</ul>
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Em princípio, queria realizar um projeto simples, deixando o mais enxuto possível e utilizando 100% do que as IAs regenerativas entregam de forma gratuita.
 
+O projeto se iniciou na simples idéia de utilizar o projeto para falar do próprio projeto, das tecnologias empregadas, etc. O roteiro teve seu início no ChatGPT-3.5 da OpenAI. Após isso, o processo de criação do vídeo/áudio foi mais simples, no qual foi procurada a IA que pudesse entregar os dois conjuntamente sem muito esforço, ressaltando sempre a facilidade e que fosse gratuito.
+
+Feito o processo criativo através da PictoryAI, foi necessário mais alguns simples ajustes de voz para dar mais credibilidade, uma música no fundo para seriedade e transições no vídeo.
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi simples e sucinto, mas como mencionado, o objetivo sempre foi mostrar a facilidade que é utilizar IAs regenerativas para um usuário comum e que existe a possibilidade de realizar tudo isso de forma gratuita.
+
+A capacidade das IAs regenerativas é demonstrada através da criação de vídeo, voz e roteiro de forma simples e objetiva sem muito esforço.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Awe-N0ee_bc?si=gmbSkrY6zISmt2Yq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+O conteúdo se encontra no [Link do youtube](https://youtu.be/Awe-N0ee_bc).
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O desafio <strong>*"Natural ou Fake Natty?"*</strong> foi importante no meu desenvolvimento pessoal e profissional, em razão de que me apresentou formas de aumentar minha produtividade utilizando-se de tecnologias que são fáceis e simples de manusear. 
 
-### Exemplos e Insigths
+Além de facilitar o processo criativo, aumentando possibilidades e perspectivas que possívelmente é difícil se ter, levando em conta que sou apenas um aprendiz de tecnologia. 
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+O projeto também levanta a pauta sobre a autenticidade dos conteúdos produzidos. As IAs regenerativas vêm pra agregar muito valor, mas se deve ter muito cuidado na hora da produção de conteúdos em virtude do conteúdo artificial produzido ser muito semelhante ao genuíno. Essa perspectiva ressalta que todos devem ter responsabilidade ética na criação de conteúdo.
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## Agradecimento
+Agradecimento espeical ao Bootcamp Nexa oferecido pela [DIO](https://www.linkedin.com/school/dio-makethechange/) e também ao querido professor [Venilton Falvo Jr](https://github.com/falvojr) por ter orientado esse projeto.
